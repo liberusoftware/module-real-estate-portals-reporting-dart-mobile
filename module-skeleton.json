@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-portals-reporting-dart-mobile",
+  "capabilityKey": "liberusoftware/real-estate-portals-reporting",
+  "presentation": "dart-mobile",
+  "package": "module_real_estate_portals_reporting_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-portals-reporting.md",
+  "presentationPlan": "projects/real-estate/features/real-estate-portals-reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
